@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Aug 2022 12:19:16 at https://altdeck.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://altdeck.io/ -O1 "C:\My Web Sites\FranzetaR6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:19:17	Warning: 	Note: due to https://altdeck.io remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+12:20:42	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/fonts/Aclonica.eot (from https://altdeck.io/wp-content/themes/bizberg/assets/css/main.css?ver=0.4)
+12:20:42	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/fonts/Aclonica.woff2 (from https://altdeck.io/wp-content/themes/bizberg/assets/css/main.css?ver=0.4)
+12:20:42	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/fonts/Aclonica.woff (from https://altdeck.io/wp-content/themes/bizberg/assets/css/main.css?ver=0.4)
+12:20:42	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/fonts/Aclonica.ttf (from https://altdeck.io/wp-content/themes/bizberg/assets/css/main.css?ver=0.4)
+12:20:42	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/fonts/Aclonica.svg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/main.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/css/fonts/slick.eot (from https://altdeck.io/wp-content/themes/bizberg/assets/css/component.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/css/fonts/slick.eot? (from https://altdeck.io/wp-content/themes/bizberg/assets/css/component.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/css/fonts/slick.woff (from https://altdeck.io/wp-content/themes/bizberg/assets/css/component.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/css/fonts/slick.ttf (from https://altdeck.io/wp-content/themes/bizberg/assets/css/component.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/css/fonts/slick.svg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/component.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/cta2/cta2-bg.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/testimonial/bg.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/animated-number/bg.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/touch.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/bread-bg.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/skill-bg.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/team/01.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/team/02.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/team/04.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/images/team/03.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/img/stamp.png (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/img/line.png (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+12:20:43	Error: 	"Not Found" (404) at link https://altdeck.io/wp-content/themes/bizberg/assets/img/blackboard.jpg (from https://altdeck.io/wp-content/themes/bizberg/assets/css/style.css?ver=0.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 151 links scanned, 127 files written (10626958 bytes overall) [6339869 bytes received at 72872 bytes/sec], 6269837 bytes transferred using HTTP compression in 60 files, ratio 30%
+(23 errors, 1 warnings, 0 messages)
